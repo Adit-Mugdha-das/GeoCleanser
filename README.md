@@ -11,7 +11,7 @@ With GeoCleanser, you can easily process **multiple column pairs simultaneously*
 
 ---
 
-## 🚀 Features
+##  Features
 - **Coordinate Cleaning**: Strips unnecessary characters and validates latitude/longitude data in DMS format.
 - **Conversion**: Converts DMS format to Decimal Degrees with high precision.
 - **Validation**: Filters latitude and longitude values within user-defined geographical ranges.
@@ -21,7 +21,7 @@ With GeoCleanser, you can easily process **multiple column pairs simultaneously*
 
 ---
 
-## 🛠️ How It Works
+##  How It Works
 1. **Input**: Provide an Excel file containing columns with latitude and longitude data.
 2. **Processing**:
    - Cleans invalid or messy coordinate data.
@@ -37,7 +37,7 @@ With GeoCleanser, you can easily process **multiple column pairs simultaneously*
 
 ---
 
-## 📂 Directory Structure
+##  Directory Structure
 ```
 GeoCleanser/
 ├── GeoCleanser.py        # Main Python script for cleaning and processing coordinates
@@ -47,7 +47,7 @@ GeoCleanser/
 
 ---
 
-## 📝 Example Usage
+##  Example Usage
 ### Input Data
 | Latitude          | Longitude         |
 |--------------------|-------------------|
@@ -64,7 +64,7 @@ GeoCleanser/
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 - Python 3.6 or later
 - Required libraries:
   - `pandas`
@@ -78,7 +78,7 @@ pip install pandas openpyxl
 
 ---
 
-## ⚙️ How to Use
+##  How to Use
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/GeoCleanser.git
@@ -99,19 +99,19 @@ pip install pandas openpyxl
 
 ---
 
-## 💡 Use Cases
+## Use Cases
 - Preprocessing geospatial data for GIS applications.
 - Cleaning messy GPS coordinates for machine learning models.
 - Validating geographic data within a specific region.
 
 ---
 
-## 📜 License
+##  License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 Contributions are welcome! If you'd like to improve the project, feel free to:
 1. Fork this repository.
 2. Create a feature branch:
@@ -130,7 +130,7 @@ Contributions are welcome! If you'd like to improve the project, feel free to:
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 - Special thanks to the open-source community for tools like `pandas` and `openpyxl`.
 - Project created and maintained by **Adit Mugdha Das**.
 
